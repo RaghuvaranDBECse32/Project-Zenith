@@ -1,0 +1,6 @@
+{
+  "name": "Project Zenith",
+  "description": "Project Zenith: SRMIST Aaruush '26 National Tech-Fest 2D/3D orbital tracking & Blender movie simulator platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
